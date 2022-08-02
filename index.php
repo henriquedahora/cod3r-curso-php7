@@ -92,7 +92,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © 2022
+        COD3R & ALUNOS © <?= 2022 date('Y') ?>
     </footer>
 </body>
 </html>
